@@ -1,4 +1,4 @@
 Flask
 Flask-WTF
-pyJWT
 deep_translator
+pyJWT
